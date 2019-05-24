@@ -1,0 +1,14 @@
+{
+    "label": "Home Page List",
+    "description": "This is a test list using the same books as the home page carousel from the HPL catelogue",
+    "isbns": [
+      "9780374168186",
+      "9780316399265",
+      "9781501168963",
+      "9780062748799",
+      "9780062820334",
+      "9781984822802",
+      "9780451498847",                   
+      "9781492665540"
+    ]
+}
