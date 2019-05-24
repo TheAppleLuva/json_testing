@@ -1,9 +1,20 @@
 {
-    "label": "Your text here",
-    "description": "Your text here",
+    "label": "Isaiahs Sample List",
+    "description": "This is a test list using the same books as the spring gardening carousel from the HPL catelogue",
     "isbns": [
-      "ID_Here",
-      "ID_Here",
-      "ID_Here"                   
+      "9781465477002",
+      "9781553632955",
+      "9781604697544",
+      "9780760357811",
+      "9781604696660",
+      "9780228101710",
+      "9781604697971",                   
+      "9781682683965",
+      "9781604698787",
+      "9781604697919",
+      "9781604697551",
+      "9781604697957",
+      "9781632171771",
+      "9781465469212"
     ]
 }
